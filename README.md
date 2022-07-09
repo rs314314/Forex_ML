@@ -4,4 +4,7 @@ This project is about using Data Science and Analytics as well as Machine Learni
 
 Some of the TOOLS AND SKILLS that I utilize in this project are custom Python modules, data collection using API calls, data exploration and visualization using MatPlotLib, the Pandas module, the numpy module, and SciKit-Learn. Using many Jupyter Notebooks and Python script files. I created files and functions that collected data from Oanda and translate it from JSON into a Pandas data frame. From there I created market price indicators to add to the data and then used all of this to create two models for one Forex pair. Gathering the final results for this project was a lot of fun (resulting ROR is located in Test_fx3.ipynb) and I enjoyed learning and developing my Python and Data Science skills along the way!
 
-The project is broken into three folders. The first folder goes through the creation process of all of the modules that were created and used in assistance with the YouTube playlist. The second folder contains all of the modules that were created for the project. The last folder contains the Machine Learning notebooks from data collection to model building and selection.
+The project is broken into three folders:
+  1. <u><b>MODULE NB</b></u>: Goes through the creation process of all of the modules that were created and used in assistance with the YouTube playlist
+  2. <u><b>MODULES</b></u>: Contains all of the modules that were created for the project 
+  3. <u><b>MACHINE LEARNING NB</b></u>: Contains the Machine Learning notebooks from data collection to model building and selection to final evaluation.
