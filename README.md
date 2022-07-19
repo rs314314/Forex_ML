@@ -8,3 +8,4 @@ The project is broken into three folders:
   1. <u><b>MODULE CREATION NB</b></u>: Goes through the creation process of all of the modules that were created and used in assistance with the YouTube playlist
   2. <u><b>MODULES</b></u>: Contains all of the modules that were created for the project 
   3. <u><b>MACHINE LEARNING NB</b></u>: Contains the Machine Learning notebooks from data collection to model building and selection to final evaluation.
+  4. <u><b>AUTOMATED SCRIPT AND NB</b></u>: Automated the entire process from API calling to model selection and results
